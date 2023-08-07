@@ -37,7 +37,7 @@ export default function page() {
                     <div className='d-flex justify-content-center align-items-center bg-transparent h-100 w-100'>
                         <div className='px-5 flex-column rounded-4 w-25 h-75 py-5' style={{background:'rgb(255 255 255 / 75%)'}}>
                             <div className='text-center mt-3 mb-4'>
-                                <img className='w-50' src="https://seeklogo.com/images/A/aplapollo-logo-A9E0FB7F05-seeklogo.com.png"  alt=""/>
+                                <img className='w-50' src="https://logowik.com/content/uploads/images/looka-design4953.jpg"  alt="brand-logo"/>
                             </div>
                             <div className='mb-3 text-center'>
                                 <h4 className='text-dark'>User Login</h4>
